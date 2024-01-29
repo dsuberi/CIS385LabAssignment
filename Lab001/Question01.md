@@ -1,8 +1,7 @@
 ## Programming Assignment - Abstraction
  
  ### Question 1 
- Write a test class in Java to implement the methods of the following class (**Counter**) to simulate the flipping of coin with two objects namely <font color="blue">Head</font> and <font color="red"> Tail</font>. The program should record and display the number of occurrences of each face over 1000 flips. Save this test file as **Coin.java**.
- <div style="text-align: right"><b>[20 Points]</b></div>
+ Write a test class in Java to implement the methods of the following class (**Counter**) to simulate the flipping of coin with two objects namely <font color="blue">Head</font> and <font color="red"> Tail</font>. The program should record and display the number of occurrences of each face over 1000 flips. Save this test file as **Coin.java**. **[20 Points]**
 
 
 ```mermaid
@@ -57,8 +56,7 @@ public class Counter
 ```
 
 ### Question 2
-Write a test class named **Dice.java** for the provided program to simulate the rolling of a die. Utilize the concept of an Array of Objects to create six objects, each representing one face of a die. The program should record and display the number of occurrences of each face over 1000 rolls.
-<div style="text-align: right"><b>[30 Points]</b></div>
+Write a test class named **Dice.java** for the provided program to simulate the rolling of a die. Utilize the concept of an Array of Objects to create six objects, each representing one face of a die. The program should record and display the number of occurrences of each face over 1000 rolls. **[30 Points]**
 
 You submission should include the following three files:
 - Counter.java
