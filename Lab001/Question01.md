@@ -15,8 +15,8 @@ classDiagram
             +int tally()
             +String toString()
       }
-      class Head["Counter :<font color='blue'>Head</font>"]
-      class Tail["Counter :<font color='red'>Tail</font>"]
+      class Head["Counter :Head"]
+      class Tail["Counter :Tail"]
 
       Counter <-- Head
       Counter <-- Tail
