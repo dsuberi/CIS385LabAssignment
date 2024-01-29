@@ -1,8 +1,8 @@
-## Abstraction
+## Programming Assignment - 1 
+### Abstraction
+ 
+Write a test class in Java to implement the methods of the following class (**Counter**)
 
-### Class Diagram (Suberi)
-
-Write a test class to implement the methods of the class Counter
 
 ```mermaid
 classDiagram
@@ -15,7 +15,7 @@ classDiagram
             +String toString()
       }
 ```
-
+**Figure 1:** Class Diagram
 
 ```Java
 public class Counter
