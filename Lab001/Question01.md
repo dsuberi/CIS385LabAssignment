@@ -15,9 +15,13 @@ classDiagram
             +String toString()
       }
 ```
-**Figure 1:** Class Diagram
 
 ```Java
+/*
+* File name: Counter.java
+* Description: 
+*/
+
 public class Counter
 {
     private String name;
@@ -44,3 +48,5 @@ public class Counter
     }
 }
 ```
+
+
