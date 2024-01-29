@@ -1,6 +1,6 @@
 ## Abstraction
 
-### Class Diagram
+### Class Diagram (Suberi)
 
 Write a test class to implement the methods of the class Counter
 
