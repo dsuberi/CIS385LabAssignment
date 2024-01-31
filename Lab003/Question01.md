@@ -27,8 +27,8 @@ classDiagram
 
 public class Stack
 {
-    int SIZE = 5, tos; // tos - Top Of Stack
-    int[] myArray = new int[SIZE];
+    private int SIZE = 5, tos; // tos - Top Of Stack
+    private int[] myArray = new int[SIZE];
 
     public Stack()
     {
