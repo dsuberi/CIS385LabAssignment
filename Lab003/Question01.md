@@ -82,10 +82,10 @@ Create a test(Test.java) class as follows: **[25 Points]**
 *****************************
            MENU
 *****************************
-1: Push Item To Stack
-2: Pop Out Item From Stack
-3: Peek Top Element Of Stack
-4: Display Stack Content
+1. Push Item To Stack
+2. Pop Out Item From Stack
+3. Peek Top Element Of Stack
+4. Display Stack Content
 5. Exit Program
 *****************************
 Enter Your Choice:
