@@ -1,4 +1,3 @@
-import java.lang.reflect.Array;
 import java.util.Arrays;
 
 class BinarySearch{
@@ -41,7 +40,5 @@ class binary{
             System.out.print("Not Found");
         else
             System.out.print("Found at index: " + found);
-
-
-    }
+   }
 }
