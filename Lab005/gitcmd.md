@@ -1,4 +1,4 @@
-### Git Command to Push to the main.
+### Git Command to PULL/Push to the main.
 
 > git add *
 
