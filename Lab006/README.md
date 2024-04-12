@@ -22,7 +22,7 @@ The purpose of this assignment is to implement the basic operations of a singly 
 3. Testing:
    - Write a testing script where you:
      - Create an instance of LinkedList.
-     - Use the ```insertFirst``` and ```insertLast``` methods to add elements to the list.
+     - Use the ```insertFirst```, ```insertLast```, and ```insertNodeAtPosition``` methods to add elements to the list.
      - Display the list using the ```display``` method.
      - Delete an element using ```deleteFirst```, ```deleteLast()```, and ```deleteNodeAtPosition``` method.
      - Search for elements using the ```find``` method.
