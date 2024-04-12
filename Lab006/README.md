@@ -10,8 +10,7 @@ The purpose of this assignment is to implement the basic operations of a singly 
 2. LinkedList Operations:
     - Implement the following methods within the LinkedList class:
       - ```insertFirst(data)```: Inserts a new node with the specified data at the **beginning** of the list.
-      - ```insertFirst(data)```: Inserts a new node with the specified data at the **end** of the list.
-      - ```insertLast(data)```: Inserts a new node with the specified data at the beginning of the list.
+      - ```insertLast(data)```: Inserts a new node with the specified data at the **end** of the list.
       - ```insertNodeAtPosition(position, data)```: Inserts a new node with the specified data at a specified position.
       - ```deleteFirst()```: Remove the node at the beginning of the list 
       - ```deleteNodeAtPosition(position):``` Removes the node at the specified position.
